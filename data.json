@@ -1,0 +1,16 @@
+[
+   {
+        "idRegistro": "1",
+        "codTipoRegistro": "31",
+        "codDelegacion": "LYO",
+        "descDelegacion": "Delegación LYO",
+        "codCliente": "00200",
+        "descCliente": "Cliente 00200",
+        "fecSaldo": "2020-09-29T15:00:00.000+0000",
+        "codDivisa": "EUR",
+        "descDivisa": "EUR",
+        "fecServicio": "2018-03-27T15:48:15.000+0000",
+        "codServicio": "6365811",
+        "codRemesa": "27352712"
+        }
+  ]
